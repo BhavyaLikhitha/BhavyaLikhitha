@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,react,mysql,aws,docker,html,ai,java,js,kafka,materialui,mongodb,nodejs,postgres,r,react,redux,sass,scala,tensorflow,ts,vercel&perline=8)](https://skillicons.dev)
 
 ---
 
