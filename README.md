@@ -1,49 +1,70 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I’m Bhavya Likhitha!
 
-###
+## Who am I?
+- A passionate tech enthusiast with a keen interest in **Crypto Currency**, **Trending Technologies**, and **Creative Innovations**.
+- I thrive on exploring and contributing to real-world projects that blend technology with creativity.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌐 Connect with me:
+- **LinkedIn**: [Bhavya Likhitha](https://www.linkedin.com/in/bhavya-likhitha/)
+- **Portfolio**: [My Work](https://bhavyaportfolio-five.vercel.app/)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## About Me:
+- 🌱 Currently learning **Machine Learning algorithms**, **Data Structures**, and **Python**.
+- 👀 Interested in contributing to **open-source projects**, **side gigs**, and **community collaborations**.
+- 💡 Passionate about blending **business and technology** to drive innovative solutions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🛠️ Skills:
+### Languages and Frameworks:
+- **Programming**: Python, Java, SQL
+- **Web Development**: HTML, SCSS, JavaScript, React, Tailwind CSS
+- **Frameworks**: Vite, Next.js
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### Tools and Platforms:
+- Tableau, Git, Vercel, Databricks
 
-###
+---
 
-<br clear="both">
+## 🎓 Education:
+- **[Your Current Degree and College]** (e.g., Bachelor of Technology in [Your Major], [Your College])
+- Areas of focus: Machine Learning, Blockchain, and Data Science
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 💼 Projects:
+### 1. **EcoConnect**
+- **Description**: Built an application to connect donors with food banks for efficient donation and logistics.
+- **Tech Stack**: Java, SQL, HTML, SCSS, JavaScript
+
+### 2. **Eventify**
+- **Description**: Developed a web app for event planning using Web APIs.
+- **Tech Stack**: HTML, SCSS, JavaScript
+
+### 3. **Portfolio Website**
+- **Description**: A fully responsive and interactive portfolio showcasing my skills and projects.
+- **Tech Stack**: Vite, Tailwind CSS, Next.js
+
+---
+
+## 💼 Work Experience:
+### Internship:
+- **Data Visualization & Dashboard Development Intern**
+  - **Tools**: Tableau, SQL, Python
+  - **Responsibilities**: Created dashboards, automated processes, and worked on complaint monitoring enhancements.
+
+---
+
+## 📬 How to Reach Me:
+- **LinkedIn**: [Bhavya Likhitha](https://www.linkedin.com/in/bhavya-likhitha/)
+- **Portfolio**: [Visit My Portfolio](https://bhavyaportfolio-five.vercel.app/)
+- **Email**: [Email Me](mailto:your-email@example.com)
+
+---
+
+## 🌟 Fun Fact:
+I love exploring the intersection of **technology** and **creativity** and finding ways to make a meaningful impact in the world!
