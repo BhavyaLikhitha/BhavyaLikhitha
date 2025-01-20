@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,react,mysql,aws,docker,html,ai,java,js,kafka,materialui,mongodb,nodejs,postgres,r,react,redux,sass,scala,tensorflow,ts,vercel)](https://skillicons.dev)
-
+![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
 ---
 
 ## 🎓 Education:
