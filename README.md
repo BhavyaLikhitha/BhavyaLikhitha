@@ -50,8 +50,8 @@
 - Configured organizational settings in Sales and Service Cloud, automating 10+ workflows using Flow and Process Builder, improving operational efficiency by 20%.
 - Designed and delivered 25+ interactive dashboards and reports, boosting data accessibility and team productivity by 30%.
 
-### Software Engineer Intern
-- **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2023**
+### Software Engineer
+- **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2024**
 - Led 30+ scrum meetings, reducing project delivery time by 15%.
 - Designed and deployed an AWS-powered data analytics pipeline, improving data processing speed by 20%.
 - Conducted unit testing, resolving 30+ software bugs to ensure 100% functionality.
