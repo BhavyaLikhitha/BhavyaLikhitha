@@ -45,10 +45,9 @@
 ---
 
 ## 💼 Work Experience:
-### Salesforce Administrator Intern
-- **Company**: Smart Internz, India | **Nov 2023 – Jan 2024**
-- Configured organizational settings in Sales and Service Cloud, automating 10+ workflows using Flow and Process Builder, improving operational efficiency by 20%.
-- Designed and delivered 25+ interactive dashboards and reports, boosting data accessibility and team productivity by 30%.
+### Data Analyst Co-op
+- **Company**: Fidelity Investments, Boston, MA | **Jul 2025 – Dec 2025**
+- Built and deployed 12+ interactive Power BI dashboards to track portfolio risk and performance, reducing manual reporting time by 40% and enabling faster, data-driven decisions.
 
 ### Software Engineer
 - **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2024**
