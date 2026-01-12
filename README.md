@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with me:
 - **LinkedIn**: [Bhavya Likhitha](https://www.linkedin.com/in/bhavya-likhitha/)
-- **Portfolio**: [My Work](https://bhavyaportfolio-five.vercel.app/)
+- **Portfolio**: [My Work](https://bhavyalikhithaportfolio-new.vercel.app/)
 - **Email**: [bhavyalikhitha.bbl@gmail.com](mailto:bhavyalikhitha.bbl@gmail.com)
 
 ---
