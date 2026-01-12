@@ -49,7 +49,8 @@
 - **Company**: Fidelity Investments, Boston, MA | **Jul 2025 – Dec 2025**
 - Built and deployed 12+ interactive Power BI dashboards to track portfolio risk and performance, reducing manual reporting time by 40% and enabling faster, data-driven decisions.
 -  Optimized complex SQL queries and automated data workflows through power automate, improving refresh speed by 35% and ensuring accuracy across multiple business domains.
--  Implemented and configured Power BI virtual gateways and revamped existing Tableau dashboards into Power BI repots to deliver secure, automated data refreshes and executive-level analytics aligned with evolving business 
+-  Implemented and configured Power BI virtual gateways and revamped existing Tableau dashboards into Power BI repots to deliver secure, automated data refreshes and executive-level analytics aligned with evolving business
+-  Collaborated with Equity, Bond, and High-Income teams to deliver actionable insights and define portfolio complexity metrics supporting strategic risk management decisions.
  
 ### Software Engineer
 - **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2024**
