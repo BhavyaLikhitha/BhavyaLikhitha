@@ -38,7 +38,7 @@
 
 ## 🎓 Education:
 - **Master of Science in Information Systems**  
-  - Northeastern University, Boston, MA | Expected Dec 2026
+  - Northeastern University, Boston, MA | Expected Aug 2026
 - **Bachelor of Technology in Computer Science and Engineering**  
   - Lovely Professional University, India | Graduated June 2024
 
