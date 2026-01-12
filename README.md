@@ -48,7 +48,8 @@
 ### Data Analyst Co-op
 - **Company**: Fidelity Investments, Boston, MA | **Jul 2025 – Dec 2025**
 - Built and deployed 12+ interactive Power BI dashboards to track portfolio risk and performance, reducing manual reporting time by 40% and enabling faster, data-driven decisions.
-
+-  Optimized complex SQL queries and automated data workflows through power automate, improving refresh speed by 35% and ensuring accuracy across multiple business domains
+ 
 ### Software Engineer
 - **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2024**
 - Led 30+ scrum meetings, reducing project delivery time by 15%.
