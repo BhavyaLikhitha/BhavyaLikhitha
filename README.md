@@ -18,7 +18,7 @@
 ---
 
 ## About Me:
-- 🌱 Currently pursuing **Master of Science in Information Systems** at **Northeastern University, Boston, MA** (Expected Dec 2026).
+- 🌱 Currently pursuing **Master of Science in Information Systems** at **Northeastern University, Boston, MA** (Expected Aug 2026).
 - 👩‍🎓 Graduated with a **Bachelor’s in Computer Science and Engineering** from **Lovely Professional University, India**.
 - 🌟 Skilled in **Machine Learning**, **Data Visualization**, **Data Pipelines**, and **Business Intelligence Tools**.
 - 💡 Passionate about blending **business and technology** to drive innovative solutions.
