@@ -60,7 +60,7 @@
 - Designed 20+ interactive dashboards using Power BI to analyze 500,000+ records, improving client reporting efficiency by 30%.
 
 ### Data Scientist Intern
-- **Company**: DevTown, India | **Aug 2021 – Dec 2021**
+- **Company**: DevTown, India | **May 2021 – Dec 2021**
 - Designed 10+ Tableau dashboards, improving decision-making efficiency by 25%.
 - Conducted analysis on 500,000+ rows of data using SQL and Python, uncovering 10+ actionable insights.
 - Applied machine learning algorithms for customer segmentation, resulting in a 15% improvement in engagement efforts.
