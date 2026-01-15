@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I am **Bhavya Likhitha Bukka**
+# 👋 Hello, I am **Bhavya Likhitha**
 
-### *A passionate Data Science enthusiast currently pursuing my Master's in Information Systems at Northeastern University.*
+### *A passionate Data enthusiast currently pursuing my Master's in Information Systems at Northeastern University.*
 
 **<h2>Data Analyst | SQL, Power BI, Python, Machine Learning | Skilled in Predictive Modeling and Business Intelligence to Enable Data-Driven Decisions</h2>**
 
