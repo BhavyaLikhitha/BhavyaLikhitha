@@ -1,53 +1,48 @@
-# Hi, I'm Bhavya 👋
+# Hello, I'm Bhavya Likhitha👋
 
-Data Engineer and AI builder working across the full data 
-and AI stack — from scalable ETL pipelines and data warehouses 
-to LLM fine-tuning, RAG systems, and multi-agent AI applications.
+I build data systems, ML pipelines, and AI products that turn messy inputs into production-ready decisions.
 
----
+## What I Build
+- Scalable data pipelines for ingestion, transformation, and analytics
+- Machine learning systems for prediction, experimentation, and decision support
+- RAG and agentic AI applications grounded in real-world workflows
+- Business-facing analytics tools that make data useful beyond dashboards
 
-## 🛠️ Tech Stack
+## What Drives Me
+Whenever I come across a real-world problem, my first instinct is to think about how a solution can be built around it.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+That is what drew me into data and AI. It was not one defining moment, but a pattern of noticing gaps, breaking problems down, and figuring out what a practical solution should look like. That curiosity keeps pushing me deeper into data engineering, machine learning, and AI.
 
----
+I enjoy working across the data and AI stack, from building reliable ETL pipelines at scale to developing machine learning models, RAG systems, and agentic AI applications.
 
-## 🚀 Featured Projects
+## Recent Projects
+### PE Org-AI-R Platform
+An evidence-backed AI readiness scoring platform that combines SEC filings, leadership signals, hiring data, digital presence, and retrieval-based workflows to evaluate companies.
+**Tech:** FastAPI, Streamlit, Snowflake, S3, LiteLLM, ChromaDB
 
-**[Last-Mile Fulfilment Optimization](https://github.com/BhavyaLikhitha/Last-Mile-Fulfilment-Optimization)**
-End-to-end data and ML platform processing 40M+ rows across 8 warehouses — Kafka, Spark, Airflow, dbt, Snowflake, Terraform, 3 ML models, $297M in identified savings
+### Last-Mile Fulfillment & Inventory Optimization
+An end-to-end data platform for supply chain analytics with orchestration, warehousing, data quality checks, ML predictions, and business intelligence reporting.
+**Tech:** Airflow, dbt, Snowflake, Kafka, Spark, Great Expectations, Power BI
 
-**[Multi-Agent Product Analytics](https://github.com/BhavyaLikhitha/Multi-Agent-Product-Analytics)**
-LLM fine-tuning and agentic pipeline over 500K+ reviews — fine-tuned Mistral-7B with QLoRA, DistilBERT classifier (F1=0.73), LangGraph 4-agent system, Evidently drift monitoring
+### Multi-Agent Product Analytics
+A product intelligence system built for large-scale review analysis, quality monitoring, and structured insight generation using LLMs and ML workflows.
+**Tech:** Python, PyTorch, SQL, Streamlit, Mistral, RAG
 
-**[PE-OrgAIR Intelligence Platform](https://github.com/BigDataIA-Spring26-Team-5/PE-OrgAIR-Platform-Agentic-Portfolio-Intelligence)**
-Multi-agent due diligence platform — FastAPI (18 routers), LangGraph, MCP tool server, RAG with hybrid retrieval, Snowflake + ChromaDB + Redis, Prometheus observability
+## Tech Stack
+**Languages:** Python, SQL, R
+**Data Engineering:** Airflow, dbt, Spark, Kafka, Snowflake, ETL/ELT  
+**AI / ML:** Scikit-learn, PyTorch, RAG, LLM evaluation, LiteLLM, ChromaDB , Pinecone
+**Apps / BI:** FastAPI, Streamlit, Power BI, Tableau  
+**Cloud / Tools:** AWS, Docker, Git, GitHub Actions
 
----
+## Current Work
+- Building production-style data and AI systems
+- Exploring agentic AI workflows and evidence-backed retrieval systems
+- Designing projects that connect data engineering, machine learning, and business impact
 
-## 📊 GitHub Stats
+## Reach Out
+Please feel free to reach out to me at:
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavyaLikhitha&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaLikhitha&layout=compact&theme=default&hide_border=true)
-
----
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-likhitha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bhavyaportfolio-five.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavyalikhitha.bbl@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhavya-likhitha/)
+- **Email:** bhavyalikhitha.bbl@gmail.com
+- **Portfolio:** [Portfolio](https://bhavyalikhithaportfolio-new.vercel.app/)
