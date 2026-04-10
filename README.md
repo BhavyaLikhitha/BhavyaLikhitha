@@ -1,71 +1,53 @@
-<div align="center">
+# Hi, I'm Bhavya 👋
 
-# 👋 Hello, I am **Bhavya Likhitha**
-
-### *A passionate Data enthusiast currently pursuing my Master's in Information Systems at Northeastern University.*
-
-**<h2>Data Analyst | SQL, Power BI, Python, Machine Learning | Skilled in Predictive Modeling and Business Intelligence to Enable Data-Driven Decisions</h2>**
-
-</div>
+Data Engineer and AI builder working across the full data 
+and AI stack — from scalable ETL pipelines and data warehouses 
+to LLM fine-tuning, RAG systems, and multi-agent AI applications.
 
 ---
 
-## 🌐 Connect with me:
-- **LinkedIn**: [Bhavya Likhitha](https://www.linkedin.com/in/bhavya-likhitha/)
-- **Portfolio**: [My Work](https://bhavyalikhithaportfolio-new.vercel.app/)
-- **Email**: [bhavyalikhitha.bbl@gmail.com](mailto:bhavyalikhitha.bbl@gmail.com)
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-## About Me:
-- 🌱 Currently pursuing **Master of Science in Information Systems** at **Northeastern University, Boston, MA** (Expected Aug 2026).
-- 👩‍🎓 Graduated with a **Bachelor’s in Computer Science and Engineering** from **Lovely Professional University, India**.
-- 🌟 Skilled in **Machine Learning**, **Data Visualization**, **Data Pipelines**, and **Business Intelligence Tools**.
-- 💡 Passionate about blending **business and technology** to drive innovative solutions.
+## 🚀 Featured Projects
+
+**[Last-Mile Fulfilment Optimization](https://github.com/BhavyaLikhitha/Last-Mile-Fulfilment-Optimization)**
+End-to-end data and ML platform processing 40M+ rows across 8 warehouses — Kafka, Spark, Airflow, dbt, Snowflake, Terraform, 3 ML models, $297M in identified savings
+
+**[Multi-Agent Product Analytics](https://github.com/BhavyaLikhitha/Multi-Agent-Product-Analytics)**
+LLM fine-tuning and agentic pipeline over 500K+ reviews — fine-tuned Mistral-7B with QLoRA, DistilBERT classifier (F1=0.73), LangGraph 4-agent system, Evidently drift monitoring
+
+**[PE-OrgAIR Intelligence Platform](https://github.com/BigDataIA-Spring26-Team-5/PE-OrgAIR-Platform-Agentic-Portfolio-Intelligence)**
+Multi-agent due diligence platform — FastAPI (18 routers), LangGraph, MCP tool server, RAG with hybrid retrieval, Snowflake + ChromaDB + Redis, Prometheus observability
 
 ---
 
-## 🛠️ Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,react,mysql,aws,docker,html,ai,java,js,kafka,materialui,mongodb,nodejs,postgres,r,react,redux,sass,scala,tensorflow,ts,vercel)](https://skillicons.dev)
-<br>
-![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 📊 GitHub Stats
+
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavyaLikhitha&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaLikhitha&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 🎓 Education:
-- **Master of Science in Information Systems**  
-  - Northeastern University, Boston, MA | Expected Aug 2026
-- **Bachelor of Technology in Computer Science and Engineering**  
-  - Lovely Professional University, India | Graduated June 2024
+## 📬 Connect
 
----
-
-## 💼 Work Experience:
-### Data Analyst Co-op
-- **Company**: Fidelity Investments, Boston, MA | **Jul 2025 – Dec 2025**
-- Built and deployed 12+ interactive Power BI dashboards to track portfolio risk and performance, reducing manual reporting time by 40% and enabling faster, data-driven decisions.
--  Optimized complex SQL queries and automated data workflows through power automate, improving refresh speed by 35% and ensuring accuracy across multiple business domains.
--  Implemented and configured Power BI virtual gateways and revamped existing Tableau dashboards into Power BI repots to deliver secure, automated data refreshes and executive-level analytics aligned with evolving business
--  Collaborated with Equity, Bond, and High-Income teams to deliver actionable insights and define portfolio complexity metrics supporting strategic risk management decisions.
- 
-### Software Engineer
-- **Company**: I Ray IT Solutions, India | **May 2023 – Aug 2024**
-- Led 30+ scrum meetings, reducing project delivery time by 15%.
-- Designed and deployed an AWS-powered data analytics pipeline, improving data processing speed by 20%.
-- Conducted unit testing, resolving 30+ software bugs to ensure 100% functionality.
-- Designed 20+ interactive dashboards using Power BI to analyze 500,000+ records, improving client reporting efficiency by 30%.
-
-### Data Scientist Intern
-- **Company**: DevTown, India | **May 2021 – Dec 2021**
-- Designed 10+ Tableau dashboards, improving decision-making efficiency by 25%.
-- Conducted analysis on 500,000+ rows of data using SQL and Python, uncovering 10+ actionable insights.
-- Applied machine learning algorithms for customer segmentation, resulting in a 15% improvement in engagement efforts.
-
----
-
-## 🌟 Fun Fact:
-I love exploring the intersection of **technology** and **creativity** and finding ways to make a meaningful impact in the world!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-likhitha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bhavyaportfolio-five.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavyalikhitha.bbl@gmail.com)
