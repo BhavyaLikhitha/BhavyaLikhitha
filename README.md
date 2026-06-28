@@ -1,5 +1,12 @@
 # Hello, I'm Bhavya Likhitha 👋  
-### Data Engineering • Data Scientist • Data Analysis • Machine Learning • Applied AI
+### Building data end-to-end: pipelines → analysis → ML → AI systems → impact
+
+## 📫 Reach Out
+Please feel free to reach out to me at:
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhavya-likhitha/)
+- **Email:** bhavyalikhitha.bbl@gmail.com
+- **Portfolio:** [Portfolio](https://bhavyalikhithaportfolio-new.vercel.app/)
 
 ## 🛠️ What I Build
 - Scalable data pipelines for ingestion, transformation, and analytics
@@ -39,10 +46,3 @@ A product intelligence system built for large-scale review analysis, quality mon
 - Building production-style data and AI systems
 - Exploring agentic AI workflows and evidence-backed retrieval systems
 - Designing projects that connect data engineering, machine learning, and business impact
-
-## 📫 Reach Out
-Please feel free to reach out to me at:
-
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhavya-likhitha/)
-- **Email:** bhavyalikhitha.bbl@gmail.com
-- **Portfolio:** [Portfolio](https://bhavyalikhithaportfolio-new.vercel.app/)
